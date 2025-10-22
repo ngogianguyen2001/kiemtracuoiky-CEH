@@ -1,4 +1,5 @@
 Room: Adventure Time
+
 Bước 1:Quét cổng      ->Hint: Try to recursively enumerate the website(Hãy thử liệt kê (hoặc quét) đệ quy toàn bộ trang web).
 
 nmap -sV -v <ip>
