@@ -16,8 +16,6 @@ $  echo "KBQWY4DONAQHE53UOJ5CA2LXOQQEQSCBEBZHIZ3JPB2XQ4TQNF2CA5LEM4QHEYLKORUC4==
 
 => Palpnh rwtrz iwt HHA rtgixuxrpit udg rajth.
 
-https://en.wikipedia.org/wiki/ROT13
-
 https://www.dcode.fr/caesar-cipher
 
 $ echo "Palpnh rwtrz iwt HHA rtgixuxrpit udg rajth." | tr 'A-Za-z' 'N-ZA-Mn-za-m'
