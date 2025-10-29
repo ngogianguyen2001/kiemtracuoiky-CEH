@@ -8,11 +8,15 @@ $  nmap -sV -v <ip>
 
 gobuster -u https://<IP>-w /usr/share/wordlists/master-lists/dirbuster/directory-list-lowercase-2.3-medium.txt -k
 
-=>candybar
+<img width="955" height="318" alt="{CD002047-A8C9-4AE8-B51A-FBAAB9415AFE}" src="https://github.com/user-attachments/assets/5cd30fba-f9d1-49de-ac59-4f2a099abad4" />
+
+=>/candybar/
 
 $  echo "KBQWY4DONAQHE53UOJ5CA2LXOQQEQSCBEBZHIZ3JPB2XQ4TQNF2CA5LEM4QHEYLKORUC4===" | base32 -d 
 
 => Palpnh rwtrz iwt HHA rtgixuxrpit udg rajth.
+
+https://en.wikipedia.org/wiki/ROT13
 
 https://www.dcode.fr/caesar-cipher
 
