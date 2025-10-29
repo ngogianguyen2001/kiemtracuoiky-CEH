@@ -20,6 +20,8 @@ https://en.wikipedia.org/wiki/ROT13
 
 https://www.dcode.fr/caesar-cipher
 
+$ echo "Palpnh rwtrz iwt HHA rtgixuxrpit udg rajth." | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
 https://land-of-ooo.com
 
 $  sudo gobuster -u https:// land-of-ooo.com -w /usr/share/wordlists/master-lists/dirbuster/directory-list-lowercase-2.3-medium.txt -k
